@@ -4,3 +4,5 @@
 
 #### Tech stack:
 - HTML5, CSS
+- BEM
+- Adaptive & responsive layout
